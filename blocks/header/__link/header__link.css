@@ -1,8 +1,11 @@
 .header__link {
   text-decoration: none;
   color:#2f80ed;
+  transition:0.7s;
 }
 .header__link::after {
   content: " ->";
-
+}
+.header__link:hover {
+  opacity:.5;
 }

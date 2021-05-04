@@ -8,4 +8,8 @@
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
+  transition: .4s;
+}
+.footer__column-link:hover {
+  opacity: .2;
 }
