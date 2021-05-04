@@ -17,6 +17,7 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/digits/digits.css);
+@import url(../blocks/digits/_offset/digits_offset.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_offset/section-subtitle_offset.css);
@@ -26,5 +27,12 @@
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/techniques/_centered/techniques_centered.css);
+@import url(../blocks/techniques/_offset/techniques_offset.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__cell/_offset/table__cell_offset.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__heading/_offset/table__heading_offset.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/__text/_offset/table__text_offset.css);
 

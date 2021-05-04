@@ -1,0 +1,10 @@
+.table {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.table:after{
+  flex-basis: 250px;
+  content: '';
+}
