@@ -1,0 +1,4 @@
+.table_size_s:after {
+  flex-basis: 200px;
+  content: '';
+}
