@@ -67,6 +67,12 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframes/_offset/video__iframes_offset.css);
-@import url(../blocks/offset-block/offset-block.css);
 @import url(../blocks/oakley/oakley.css);
+@import url(../blocks/feynman/feynman.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__img/feynman__img.css);
+@import url(../blocks/feynman/__title/_offset/feynman__title_offset.css);
+@import url(../blocks/offset-block/offset-block.css);
 @import url(../blocks/rotation/rotation.css);
