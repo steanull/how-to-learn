@@ -5,14 +5,6 @@
   position: absolute;
   top: 50%;
   right: 48px;
-  text-decoration: none;
-  color:#2f80ed;
-  transition:0.7s;
+  transition: 0.7s;
   z-index: 99;
-}
-.feynman__link::after {
-  content: " ->";
-}
-.feynman__link:hover {
-  opacity:.5;
 }

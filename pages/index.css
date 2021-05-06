@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__link/page__link.css);
 @import url(../blocks/logo/_place_header/logo_place_header.css);
 @import url(../blocks/logo/_place_footer/logo_place_footer.css);
 @import url(../blocks/header/header.css);
@@ -86,6 +87,5 @@
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
-
 @import url(../blocks/offset-block/offset-block.css);
 @import url(../blocks/rotation/rotation.css);

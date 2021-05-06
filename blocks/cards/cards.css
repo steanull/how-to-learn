@@ -4,7 +4,8 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
-.cards:after{
+
+.cards:after {
   flex-basis: 240px;
   content: '';
 }
