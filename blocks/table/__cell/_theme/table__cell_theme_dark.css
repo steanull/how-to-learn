@@ -1,0 +1,13 @@
+.table__cell_theme_dark {
+  color: #ffffff;
+  width: 200px;
+  margin: 80px 25px 0 0;
+}
+
+.table__cell_theme_dark:nth-of-type(4n) {
+  margin: 80px 25px 0 0;
+}
+
+.table__cell_theme_dark:nth-of-type(5n) {
+  margin: 80px 0 0;
+}

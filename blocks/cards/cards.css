@@ -1,11 +1,7 @@
 .cards {
   width: 920px;
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
-}
-
-.cards:after {
-  flex-basis: 240px;
-  content: '';
+  margin: 0;
+  padding: 0;
 }

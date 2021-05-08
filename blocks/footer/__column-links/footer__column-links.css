@@ -5,6 +5,8 @@
   list-style-type: none;
   display: flex;
   flex-direction: column;
-  min-height: 74px;
-  justify-content: space-between;
+}
+
+.footer__column-link:nth-of-child (1) {
+  margin-bottom: 10px;
 }
