@@ -1,6 +1,6 @@
 .video__iframes {
   display: flex;
-  height: 256px;
+  min-height: 256px;
   margin: 50px 0 0;
   padding: 0;
   list-style: none;

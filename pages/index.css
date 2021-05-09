@@ -3,6 +3,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__digits/page__digits.css);
 @import url(../blocks/page/__kaufman/page__kaufman.css);
+@import url(../blocks/page/__oakley/page__oakley.css);
 @import url(../blocks/page/__resources/page__recources.css);
 @import url(../blocks/page/__section-subtitle/page__section-subtitle.css);
 @import url(../blocks/page/__link/page__link.css);
@@ -35,7 +36,6 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
-@import url(../blocks/table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
